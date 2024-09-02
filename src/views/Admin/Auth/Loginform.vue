@@ -1,5 +1,5 @@
 <template>
-  <div class=" bg-[#7a181a] h-full xl:h-screen">
+  <div class=" bg-[#7a181a] h-full md;screen lg:screen xl:screen 2xl:h-screen ">
 
     <section id="features" class="relative block px-6  py-10 md:py-10 md:px-10   ">
 
